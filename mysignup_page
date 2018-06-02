@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Travlr</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+  
+<div class="container">
+  
+    <div class="travlr-box">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="row">
+                    
+                    
+                     <div class="col-xs-12 col-sm-12 col-md-12">
+                        <div class="signup-heading">
+                            <h1>SIGN UP FOR<span style="color: #7F8AF1"> EXCLUSIVE </span> ACCESS</h1>
+                        </div>
+                    </div>
+                    
+                     <div class="col-xs-12 col-sm-12 col-md-12">
+                        <div class="signup-form">
+                            
+                            <form action="http://localhost/KINAB/local_storage_to_do_list.html" name="" method="">
+                                
+                              <div class="tb-container">
+                                <input class="aumd-tb" id="username" name="username" type="text" placeholder=" ">
+                                <label class="aumd-tb-label" for="username">Username</label>
+                                <span class="validation"></span>
+                              </div>
+                            
+                              <div class="tb-container">
+                                <input class="aumd-tb" id="emailid" name="emailid" type="text" placeholder=" ">
+                                <label class="aumd-tb-label" for="emailid">Email Id</label>
+                                <span class="validation"></span>
+                              </div>
+                            
+                              <div class="tb-container">
+                                <input class="aumd-tb" id="password" name="password" type="password" placeholder=" ">
+                                <label class="aumd-tb-label" for="password">Password</label>
+                                <span class="validation"></span>
+                              </div>
+                                <br/>
+                            
+                                <div class="signup-btn">
+                            
+                            <button type="button" class="btn btn-primary btn-lg">Sign Up</button>
+                                    
+                                </div>
+                            </form>
+                            
+                        </div>
+                    </div>
+                    
+                      <div class="col-xs-12 col-sm-12 col-md-12">
+                          <p class="text-center">OR</p>
+                          
+                        <div class="signup-by">
+                             <div class="signin-ggle">
+                            
+                            <button type="button" class="btn btn-primary btn-lg"> <i class="fa fa-google"></i> Sign in with Google</button>
+                                    
+                            </div>
+                            
+                            
+                             <div class="signin-fbk">
+                            
+                            <button type="button" class="btn btn-primary btn-lg"> <i class="fa fa-facebook"></i> Sign in with Facebook</button>
+                                    
+                            </div>
+                            
+                            <p class="signin-info text-center">Already have an account? <span style="color:#7F8AF1;">Login</span></p>
+                            
+                            
+                        </div>
+
+                    </div>
+                    
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    
+</div>
+
+</body>
+</html>
